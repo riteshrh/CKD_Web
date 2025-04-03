@@ -1,0 +1,71 @@
+Title: Medical Background on Chronic Kidney Disease (CKD)
+
+Chronic Kidney Disease (CKD) is a progressive condition in which the kidneys lose their ability to filter waste and excess fluids from the blood. This decline in kidney function occurs over months or years and may eventually lead to kidney failure (end-stage renal disease), requiring dialysis or a kidney transplant.
+
+Definition:
+CKD is defined as abnormalities of kidney structure or function, present for more than 3 months, with implications for health. This includes:
+- Decreased glomerular filtration rate (GFR < 60 mL/min/1.73 m²)
+- Evidence of kidney damage (e.g., albuminuria, electrolyte imbalance, or structural abnormalities)
+
+Common Causes:
+- Diabetes Mellitus (the most common cause)
+- Hypertension
+- Glomerulonephritis
+- Polycystic Kidney Disease
+- Prolonged obstruction of the urinary tract
+- Recurrent kidney infections (pyelonephritis)
+
+Stages of CKD:
+CKD is classified into five stages based on the estimated glomerular filtration rate (eGFR):
+- Stage 1: Normal or high eGFR (≥90) with signs of kidney damage
+- Stage 2: Mild reduction (eGFR 60–89)
+- Stage 3a: Moderate reduction (eGFR 45–59)
+- Stage 3b: Moderate to severe (eGFR 30–44)
+- Stage 4: Severe reduction (eGFR 15–29)
+- Stage 5: Kidney failure (eGFR <15 or dialysis)
+
+Key Symptoms (especially in advanced stages):
+- Fatigue
+- Swelling in ankles, feet, or hands (edema)
+- Shortness of breath
+- Nausea and vomiting
+- Loss of appetite
+- Changes in urine output
+- High blood pressure
+
+Important Laboratory Indicators:
+- Serum Creatinine: Elevated in CKD due to reduced filtration
+- Blood Urea Nitrogen (BUN): Often elevated in CKD
+- Estimated GFR (eGFR): Used to stage CKD
+- Proteinuria or Albuminuria: Protein in the urine indicates kidney damage
+- Electrolyte Imbalances: Sodium, potassium, calcium, and phosphate abnormalities
+- Hemoglobin: Anemia is common due to decreased erythropoietin production
+
+Associated Conditions:
+- Hypertension: Both a cause and consequence of CKD
+- Cardiovascular Disease: CKD increases risk for heart attacks and strokes
+- Anemia: Due to decreased erythropoietin
+- Mineral and Bone Disorder: Resulting from calcium/phosphate imbalance
+- Metabolic Acidosis: Accumulation of acid due to decreased excretion
+
+Risk Factors:
+- Diabetes
+- High blood pressure
+- Family history of kidney disease
+- Cardiovascular disease
+- Smoking
+- Obesity
+- Older age
+- Ethnicity (higher risk in African, Hispanic, Asian, and Native American populations)
+
+Management:
+- Blood pressure and blood sugar control
+- Medications like ACE inhibitors or ARBs
+- Dietary modifications (low sodium, controlled protein intake)
+- Monitoring of kidney function and electrolyte levels
+- Treatment of anemia, bone disease, and other complications
+
+CKD is often silent in early stages and may only be detected through routine lab tests. Early detection and treatment can slow progression and reduce the risk of complications.
+
+Note: This content is provided for background context and should not be used as a substitute for medical advice from a healthcare professional.
+

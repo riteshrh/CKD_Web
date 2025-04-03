@@ -13,15 +13,38 @@ const Results: React.FC = () => {
     { sender: 'bot', text: 'Hello! I am here to help. Ask me anything about your results.' }
   ]);
     
-  const handleSendMessage = () => {
-    if (userInput.trim() !== '') {
+  const handleSendMessage = async () => {
+    if (userInput.trim() === '') return;
+  
+    const newMessages = [...chatMessages, { sender: 'user', text: userInput }];
+    setChatMessages(newMessages);
+  
+    try {
+      const response = await fetch('http://127.0.0.1:5000/chat', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ message: userInput }),
+      });
+  
+      const data = await response.json();
+  
       setChatMessages([
-        ...chatMessages,
-        { sender: 'user', text: userInput },
-        { sender: 'bot', text: 'This is a placeholder response from the AI.' }
+        ...newMessages,
+        {
+          sender: 'bot',
+          text: data.response || 'Sorry, no response received.',
+        },
       ]);
-      setUserInput('');
+    } catch (error) {
+      setChatMessages([
+        ...newMessages,
+        { sender: 'bot', text: 'Error communicating with server.' },
+      ]);
     }
+  
+    setUserInput('');
   };
   
   return (
